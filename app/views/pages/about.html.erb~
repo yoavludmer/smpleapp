@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <title><%= @title %></title>
+   </head>
+<body>
+<h1>smpleapp</h1>
+  <p> 
+
+   <a href="http://www.ynet.co.il">ynet </a>
+
+  </p>
+</body>
+</html>
