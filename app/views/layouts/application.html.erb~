@@ -10,12 +10,13 @@
 
   <body>
     <div class="container">
+<%= render 'layouts/logo' %>
      <%= render 'layouts/header' %>
-
+                               
       <section class="round">
         <%= yield %>
       </section>
-     
+      <%= render 'layouts/footer' %>  
     </div>
   </body>
 </html>

@@ -1,0 +1,11 @@
+  
+ 
+
+
+     <li>  <% logo = image_tag("logo.png", :alt => "Sample App", :class => "round") %>  </li>
+   
+
+      <li><%= link_to "logo", root_path %> </li> 
+
+   
+  
